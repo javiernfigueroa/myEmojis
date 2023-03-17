@@ -1,0 +1,16 @@
+button {
+  font-family: Baloo;
+  letter-spacing: px;
+  background: darkcyan;
+  color: white;
+  border: none;
+  padding: 4px 10px;
+  border-radius: 4px;
+  margin: 0 5px;
+}
+
+.buttons-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0 40px;
+}
